@@ -8,7 +8,7 @@ This was built using Svelte with the design coming from Gary Simon*. It is meant
 
 ### Contributions always welcome!
 
-# *Please checkout the original design, and all credit to Gary Simon. https://www.youtube.com/watch?v=JavCEJ5hodc
+### *Please checkout the original design, and all credit to Gary Simon. https://www.youtube.com/watch?v=JavCEJ5hodc
 
 
 ## Developing
