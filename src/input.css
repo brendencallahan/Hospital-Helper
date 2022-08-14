@@ -7,6 +7,10 @@
         @apply bg-white w-1/2w h-1/3h md:w-1/3w md:h-1/4h border-gray-700 border
     }
 
+    .btn-main {
+        transition: 0.5s ease-in
+    }
+
     .btn-main img {
         @apply m-auto w-auto h-auto
     }
