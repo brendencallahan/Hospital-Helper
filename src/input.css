@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+    .btn-main {
+        @apply bg-white w-1/2w h-1/3h md:w-1/3w md:h-1/4h border-gray-700 border
+    }
+
+    .btn-main img {
+        @apply m-auto w-auto h-auto
+    }
+
+    .btn-main h1 {
+        @apply text-4xl
+    }
+}
