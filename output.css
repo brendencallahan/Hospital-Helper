@@ -552,8 +552,8 @@ video {
 }
 
 .btn-main {
-  height: 33.333vh;
-  width: 50vw;
+  height: max(185px, 33.333vh);
+  width: max(185px, 50vw);
   border-width: 1px;
   --tw-border-opacity: 1;
   border-color: rgb(55 65 81 / var(--tw-border-opacity));
@@ -563,8 +563,8 @@ video {
 
 @media (min-width: 768px) {
   .btn-main {
-    height: 25vh;
-    width: 33.333vw;
+    height: max(185px, 25vh);
+    width: max(185px, 33.333vw);
   }
 }
 
